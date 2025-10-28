@@ -1,0 +1,7 @@
+{
+  "name": "EchoLingo: AI Language Partner",
+  "description": "Practice your language skills with a real-time AI conversational partner. Speak, get instant feedback, and see live transcriptions of your conversation with Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
